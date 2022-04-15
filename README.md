@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Lavenderer1375 (Kianush Abedi)
-- 👀 I’m interested in Programing and Web Developing and growing more in this field.
+- 👋 Hi, I’m Kianush Abedi (@Lavenderer1375)
+- 👀 I’m interested in Programing and Web Developing and I'm growing more in this field.
 - 🌱 I’m currently learning Python and UI/UX Design.
 - 💞️ I’m looking to collaborate on Freelancing jobs or project type courses.
 - 📫 How to reach me : abedikianush@gmail.com
