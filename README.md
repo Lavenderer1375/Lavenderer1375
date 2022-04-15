@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python and UI/UX Design.
 - 💞️ I’m looking to collaborate on Freelancing jobs or project type courses.
 - 📫 How to reach me : abedikianush@gmail.com
+- And feel free to correct my codes anytime, I'm a learner and not a big coder for some big company!
 
 <!---
 Lavenderer1375/Lavenderer1375 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
