@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning NextJS and UI/UX Design.
 - 💞️ I’m Open to work! so if you got any oppotunities count me in!
 - 📫 How to reach me : abedikianush@gmail.com
-- And feel free to correct my codes anytime, I'm a learner and not a big coder for some big company!
+- And feel free to correct my codes anytime, I'm a learner.
 
 <!---
 Lavenderer1375/Lavenderer1375 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
